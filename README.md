@@ -1,6 +1,4 @@
-# Automated scholarly manuscripts on GitHub
-
-<!-- usage note: edit the H1 title above to personalize the manuscript -->
+# Ten Simple Rules for Using Open Science in Biomedical Research
 
 [![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://carpenterlab.github.io/open-science-rules/)
 [![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://carpenterlab.github.io/open-science-rules/manuscript.pdf)
@@ -8,10 +6,28 @@
 
 ## Manuscript description
 
-<!-- usage note: edit this section. -->
+The collaboratively written manuscript will provide ten rules for effectively using open science in biomedical research.
+Written in the style of the [PLOS ten simple rules collections](https://collections.plos.org/ten-simple-rules), the manuscript is aimed at a larger audience of biomedical researchers.
+Our goal is to introduce, describe, and guide scientists towards open science research policies while acknowledging legitimate barriers of adoption.
+For many, simply having an open discussion about open science is beneficial.
 
-This repository is a template manuscript (a.k.a. rootstock).
-Actual manuscript instances will clone this repository (see [`SETUP.md`](SETUP.md)) and replace this paragraph with a description of their manuscript.
+Open science is an approach to research that makes all data, software, results, and discussions freely available from the beginning of a project and throughout development.
+Open science ties together computational biology and software development best practices with scientific discovery and dissemination.
+A brief figure below outlines the approach.
+
+![Open Science Figure](open-science-overview.png)
+
+## Current Status (17 July 2019)
+
+The manuscript begins!
+We are beginning to brainstorm and discuss open science rules and open science papers in [github issues](https://github.com/carpenterlab/open-science-rules/issues).
+See [#1](https://github.com/carpenterlab/open-science-rules/issues/1) for more details about the current scope and purpose of the paper.
+
+We are also soliciting contributions!
+Open science is most effective by leveraging the skills and expertise of current practitioners.
+Written in the style of [deep-rules](https://github.com/Benjamin-Lee/deep-rules) and the [deep-review](https://github.com/greenelab/deep-review), the open-science-rules repository will be a place to learn about open science and will also serve as the framework to draft the actual manuscript.
+
+The manuscript is written using [Manubot](https://doi.org/10.1371/journal.pcbi.1007128).
 
 ## Manubot
 
