@@ -2,7 +2,7 @@
 author-meta:
 - John Doe
 - Jane Roe
-date-meta: '2019-07-17'
+date-meta: '2019-07-25'
 keywords:
 - markdown
 - publishing
@@ -18,10 +18,10 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://carpenterlab.github.io/open-science-rules/v/18b57467c354faf91808661f08240d078bc51ca0/))
+([permalink](https://carpenterlab.github.io/open-science-rules/v/7b5b0b466610b01ed6a42c43110b1bf8f4c5f8f0/))
 was automatically generated
-from [carpenterlab/open-science-rules@18b5746](https://github.com/carpenterlab/open-science-rules/tree/18b57467c354faf91808661f08240d078bc51ca0)
-on July 17, 2019.
+from [carpenterlab/open-science-rules@7b5b0b4](https://github.com/carpenterlab/open-science-rules/tree/7b5b0b466610b01ed6a42c43110b1bf8f4c5f8f0)
+on July 25, 2019.
 </em></small>
 
 ## Authors

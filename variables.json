@@ -1,5 +1,5 @@
 {
-  "date": "July 17, 2019",
+  "date": "July 25, 2019",
   "authors": [
     {
       "github": "johndoe",
@@ -46,7 +46,7 @@
     "repo_slug": "carpenterlab/open-science-rules",
     "repo_owner": "carpenterlab",
     "repo_name": "open-science-rules",
-    "commit": "18b57467c354faf91808661f08240d078bc51ca0"
+    "commit": "7b5b0b466610b01ed6a42c43110b1bf8f4c5f8f0"
   },
   "manuscript_stats": {
     "reference_counts": {
