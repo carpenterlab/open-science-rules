@@ -18,9 +18,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://carpenterlab.github.io/open-science-rules/v/7b5b0b466610b01ed6a42c43110b1bf8f4c5f8f0/))
+([permalink](https://carpenterlab.github.io/open-science-rules/v/ca0f4c010de623d10297ec6fcd26b96772642860/))
 was automatically generated
-from [carpenterlab/open-science-rules@7b5b0b4](https://github.com/carpenterlab/open-science-rules/tree/7b5b0b466610b01ed6a42c43110b1bf8f4c5f8f0)
+from [carpenterlab/open-science-rules@ca0f4c0](https://github.com/carpenterlab/open-science-rules/tree/ca0f4c010de623d10297ec6fcd26b96772642860)
 on July 25, 2019.
 </em></small>
 
