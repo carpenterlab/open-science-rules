@@ -27,6 +27,8 @@ We are also soliciting contributions!
 Open science is most effective by leveraging the skills and expertise of current practitioners.
 Written in the style of [deep-rules](https://github.com/Benjamin-Lee/deep-rules) and the [deep-review](https://github.com/greenelab/deep-review), the open-science-rules repository will be a place to learn about open science and will also serve as the framework to draft the actual manuscript.
 
+See [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
+
 The manuscript is written using [Manubot](https://doi.org/10.1371/journal.pcbi.1007128).
 
 ## Manubot
