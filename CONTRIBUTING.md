@@ -19,12 +19,6 @@ All participants should feel free to participate in reviewing pull requests (see
 Make your voice heard!
 We'd love to have you ask questions, clarify points, and jump in and edit the text.
 
-### Authorship
-
-We use the [ICMJE Guidelines](http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html).
-We expect authors to contribute to the overall design by participating in issues, to contribute to the text by writing sections and/or revising sections through pull requests.
-To be considered for authorship, these should be substantial intellectual contributions.
-
 ### Peer Review
 
 All pull requests will undergo peer review.
@@ -41,8 +35,14 @@ As a reviewer, it's helpful to note the type of review you performed:
 Before a repository maintainer merges a pull request, there must be at least one affirmative review.
 If there is any unaddressed criticism or disapproval, a repository maintainer will determine how to proceed and may wait for additional feedback.
 
-### Maintainer
+## Authorship
 
-If you'd like to help with repository maintenance, file a pull request and add your name and github profile!
+We use the [ICMJE Guidelines](http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html).
+We expect authors to contribute to the overall design by participating in issues, to contribute to the text by writing sections and/or revising sections through pull requests.
+We only assign authorship for substantial intellectual contributions.
+
+## Maintainers
+
+If you'd like to more formally help with repository maintenance, file a pull request and add your name and github profile to the list below!
 
 * [Greg Way](https://github.com/gwaygenomics)
