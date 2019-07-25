@@ -2,6 +2,8 @@
 
 This page was modified from the [deep-review contribution guidelines](https://github.com/greenelab/deep-review/blob/5e00ddd30d79f527129de25ef02566a39bd6358d/CONTRIBUTING.md).
 
+**Note:** If you have stumbled upon this page, want to contribute, and are not a GitHub expert, do not hesitate to ask questions!
+
 ## Issues
 
 We use issues to discuss **open science rules**, **relevant papers**, **open science examples**, and **other relevant topics**.
