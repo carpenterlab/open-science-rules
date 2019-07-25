@@ -4,7 +4,8 @@ This page was modified from the [deep-review contribution guidelines](https://gi
 
 ## Issues
 
-We use issues to discuss open science `rules`, relevant `papers`, open science `examples`, and `other` relevant topics.
+We use issues to discuss **open science rules**, **relevant papers**, **open science examples**, and **other relevant topics**.
+
 Please make sure to use the [appropriate label](https://github.com/carpenterlab/open-science-rules/labels) to catalog a new issue.
 
 ## Manuscript Writing via Manubot
