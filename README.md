@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/carpenterlab/open-science-rules/tree/gh-pages) branch hosts the contents of this directory at https://carpenterlab.github.io/open-science-rules/.
-The permalink for this webpage version is https://carpenterlab.github.io/open-science-rules/v/18b57467c354faf91808661f08240d078bc51ca0/.
+The permalink for this webpage version is https://carpenterlab.github.io/open-science-rules/v/7b5b0b466610b01ed6a42c43110b1bf8f4c5f8f0/.
 To redirect to the permalink for the latest manuscript version at anytime, use the link https://carpenterlab.github.io/open-science-rules/v/freeze/.
 
 ## Files
@@ -36,4 +36,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`18b57467c354faf91808661f08240d078bc51ca0`](https://github.com/carpenterlab/open-science-rules/commit/18b57467c354faf91808661f08240d078bc51ca0).
+[`7b5b0b466610b01ed6a42c43110b1bf8f4c5f8f0`](https://github.com/carpenterlab/open-science-rules/commit/7b5b0b466610b01ed6a42c43110b1bf8f4c5f8f0).
